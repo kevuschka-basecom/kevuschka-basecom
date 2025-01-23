@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kevuschka-basecom
-- 👀 I’m interested in Frontend Dev
-- 🌱 I’m currently learning as Trainee Software Dev
+- 👀 I’m interested in Frontend Development
+- 🌱 I’m currently a Trainee Software Dev
 - 💞️ Working at basecom
-- 📫 Reach me on k.schumilo@outlook.de
+- 📫 Reach me on k.schumilo@basecom.de
 
 <!---
 kevuschka-basecom/kevuschka-basecom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
